@@ -1,4 +1,4 @@
-
+ 
 # SIMULADOR-DE-GRADE<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -131,7 +131,7 @@
 
         .grid-table th {
             background: #f8fafc;
-            padding: 28px;
+            padding: 14px;
             text-align: left;
             font-size: 0.85rem;
             text-transform: uppercase;
@@ -140,7 +140,7 @@
         }
 
         .grid-table td {
-            padding: 10px 28px;
+            padding: 20px 14px;
             border-bottom: 1px solid var(--border);
             vertical-align: middle;
         }
@@ -204,7 +204,7 @@
 
 <div class="container">
     <header>
-        <h1>📺 Montador de Grade de TV Aberta</h1>
+        <h1>📺 SIMULADOR DE GRADE </h1>
         <div class="start-time-group">
             <label for="startTime">Início da Grade:</label>
             <input type="time" id="startTime" value="06:00:00" step="1" onchange="renderGrid()">
