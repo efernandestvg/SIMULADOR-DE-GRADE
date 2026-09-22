@@ -250,7 +250,7 @@
                 <th style="width: 130px;">Duração / Alvo</th>
                 <th style="width: 90px;">Término</th>
                 <th style="width: 230px;">Afinação de Grade</th>
-                <th style="width: 150px;">Ações</th>
+                <th style="width: 250px;">Ações</th>
             </tr>
         </thead>
         <tbody id="gridBody">
