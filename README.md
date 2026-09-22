@@ -27,7 +27,7 @@
         }
 
         .container {
-            max-width: 1250px;
+            max-width: 1400px;
             margin: 0 auto;
         }
 
@@ -182,7 +182,7 @@
             border-radius: 4px;
         }
 
-        .afinado { background: #dcfce7; color: #166534; }
+        .afinado 🎯 { background: #dcfce7; color: #166534; }
         .buraco { background: #fef3c7; color: #92400e; }
         .estouro { background: #fee2e2; color: #991b1b; }
 
@@ -245,7 +245,7 @@
             <tr>
                 <th style="width: 40px;">#</th>
                 <th style="width: 140px;">Tipo</th>
-                <th>Título / Elemento</th>
+                <th style="width: 350px;">Título / Elemento</th>
                 <th style="width: 90px;">Início</th>
                 <th style="width: 130px;">Duração / Alvo</th>
                 <th style="width: 90px;">Término</th>
