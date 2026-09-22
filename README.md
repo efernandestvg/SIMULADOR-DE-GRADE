@@ -131,7 +131,7 @@
 
         .grid-table th {
             background: #f8fafc;
-            padding: 14px;
+            padding: 28px;
             text-align: left;
             font-size: 0.85rem;
             text-transform: uppercase;
@@ -140,7 +140,7 @@
         }
 
         .grid-table td {
-            padding: 10px 14px;
+            padding: 10px 28px;
             border-bottom: 1px solid var(--border);
             vertical-align: middle;
         }
